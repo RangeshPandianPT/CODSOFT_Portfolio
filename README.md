@@ -29,26 +29,7 @@ CSS3
 
 JavaScript (optional for enhancements)
 
----
-
-📂 Project Setup
-
-1. Download or clone the repository
 
 
-2. Open index.html in a browser
-
-
-3. Customize as needed (update projects, skills, resume link, etc.)
-
----
-
-📬 Contact
-
-📧 Email: rangeshpandian@gmail.com
-
-💼 LinkedIn
-
-📸 Instagram
 
 
